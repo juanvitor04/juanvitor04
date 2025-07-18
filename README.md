@@ -43,7 +43,8 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 ## 🧠 Cursos Complementares
 
 - RedHat Enterprise Linux (RH124 e RH104) – RedHat Academy  
-- HTML5/CSS3 (Módulos 1 e 2), Python (Mundo 1, 2 e 3) – Curso em Vídeo  
+- HTML5/CSS3 (Módulos 1 e 2),
+- Python (Mundo 1, 2 e 3) – Curso em Vídeo  
 - MySQL – Curso em Vídeo  
 - Trilha Python e SQL Server – Fundação Bradesco  
 - Cybersecurity Essentials – Cisco  
