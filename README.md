@@ -33,7 +33,6 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 
 - **📱 Detecção de Smartphones com YOLO**  
   Sistema em Python usando YOLO para identificar celulares em vídeos. Resultados salvos em servidor Ubuntu e compartilhados com Samba.  
-  🔗 [Repositório](https://github.com/juanvitor04/sistema-de-deteccao-de-objetos)
 
 - **🌡️ Monitoramento Ambiental com ESP32**  
   Coleta de temperatura e umidade via sensores conectados ao ESP32, envio para InfluxDB e visualização em tempo real no Grafana.
