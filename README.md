@@ -57,8 +57,7 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 
 - 📧 joaovitorprazeres4@gmail.com  
 - 📱 (81) 98292-6848
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)  
 
 ---
 
