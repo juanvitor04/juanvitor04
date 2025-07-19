@@ -56,16 +56,20 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 ## 📫 Contato
 
 - 📧 joaovitorprazeres4@gmail.com  
-- 📱 (81) 98292-6848  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)  
+- 📱 (81) 98292-6848
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)  
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![João Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight" />
+
+</div>
 
 ---
 
