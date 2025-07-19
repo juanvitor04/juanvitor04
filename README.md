@@ -43,8 +43,6 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
   🔗 [Acesse o site](https://juanvitor04.github.io/projeto-android/)  
   🔗 [Repositório](https://github.com/juanvitor04/projeto-android)  
 
-  ![Preview do site](https://raw.githubusercontent.com/juanvitor04/projeto-android/main/imagens/capa.png)
-
 ---
 
 ## 🧠 Cursos Complementares
