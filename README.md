@@ -38,6 +38,13 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 - **🌡️ Monitoramento Ambiental com ESP32**  
   Coleta de temperatura e umidade via sensores conectados ao ESP32, envio para InfluxDB e visualização em tempo real no Grafana.
 
+- **🤖 Site "História do Android" com HTML e CSS**  
+  Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
+  🔗 [Acesse o site](https://juanvitor04.github.io/projeto-android/)  
+  🔗 [Repositório](https://github.com/juanvitor04/projeto-android)  
+
+  ![Preview do site](https://raw.githubusercontent.com/juanvitor04/projeto-android/main/imagens/capa.png)
+
 ---
 
 ## 🧠 Cursos Complementares
