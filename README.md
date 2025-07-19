@@ -70,7 +70,7 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&cache_seconds=3600" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight&langs_count=6" />
 
 </div>
