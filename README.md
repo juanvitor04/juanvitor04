@@ -64,6 +64,7 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 ## 📊 GitHub Stats
 
 ![João Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight)
 
 ---
 
