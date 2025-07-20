@@ -18,7 +18,7 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 - **Sistemas Operacionais**: Linux, Windows 10/11, Windows Server  
 - **Desenvolvimento**: Python, HTML5, CSS3, MySQL, SQL Server  
 - **Cloud & DevOps**: AWS EC2, VPS Hostinger, Docker  
-- **Outros**: ESP32, InfluxDB, Samba
+- **Outros**: InfluxDB, Samba
 
 ---
 
