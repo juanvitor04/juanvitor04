@@ -42,8 +42,7 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 
 - **🤖 Site "História do Android" com HTML e CSS**  
   Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
-  🔗 [Acesse o site](https://juanvitor04.github.io/projeto-android/)  
-  🔗 [Repositório](https://github.com/juanvitor04/projeto-android)  
+  🔗 [Acesse o site](https://juanvitor04.github.io/projeto-android/)  🔗 [Repositório](https://github.com/juanvitor04/projeto-android)  
 
 ---
 
