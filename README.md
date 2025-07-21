@@ -37,6 +37,8 @@ Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desen
 
 - **🌡️ Monitoramento Ambiental com ESP32**  
   Coleta de temperatura e umidade via sensores conectados ao ESP32, envio para InfluxDB e visualização em tempo real no Grafana.
+  [🔗 Projeto Sistema de Monitoramento Ambiental IoT](https://github.com/juanvitor04/sistema-de-monitoramento-ambiental-iot)
+
 
 - **🤖 Site "História do Android" com HTML e CSS**  
   Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
