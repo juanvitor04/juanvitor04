@@ -6,16 +6,32 @@
 
 ## 🛠️ Tecnologias e Habilidades
 
--## 🛠️ Tecnologias e Habilidades
+- **Redes de Computadores:**  
+  ![Protocolos](https://img.icons8.com/ios-filled/20/000000/networking.png) Protocolos  
+  ![Grafana](https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png) Grafana  
+  ![Zabbix](https://upload.wikimedia.org/wikipedia/commons/4/46/Zabbix_logo.svg) Zabbix  
 
-- ![Protocolos](https://img.icons8.com/ios-filled/20/000000/networking.png) **Redes de Computadores:** Protocolos, análise de redes, ![Grafana](https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png) Grafana, ![Zabbix](https://upload.wikimedia.org/wikipedia/commons/4/46/Zabbix_logo.svg)
-- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Sistemas Operacionais:** Linux, ![Windows](https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg) Windows 10/11, Windows Server  
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Desenvolvimento:** Python, ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5, ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3, ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL, ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server, ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
-- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **Cloud & DevOps:** AWS EC2, VPS Hostinger, ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker  
-- ![InfluxDB](https://upload.wikimedia.org/wikipedia/commons/6/6b/InfluxDB_logo.svg) **Outros:** InfluxDB, ![Samba](https://upload.wikimedia.org/wikipedia/commons/2/24/Samba-logo.svg) Samba
+- **Sistemas Operacionais:**  
+  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux  
+  ![Windows](https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg) Windows  
 
+- **Desenvolvimento:**  
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python  
+  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5  
+  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3  
+  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL  
+  ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server  
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
+
+- **Cloud & DevOps:**  
+  ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS EC2  
+  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker  
+
+- **Outros:**  
+  ![InfluxDB](https://upload.wikimedia.org/wikipedia/commons/6/6b/InfluxDB_logo.svg) InfluxDB  
+  ![Samba](https://upload.wikimedia.org/wikipe)
+  
 ---
-
 ## 💼 Projetos Acadêmicos
 
 - **📱 Detecção de Smartphones com YOLO**  
