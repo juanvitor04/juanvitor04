@@ -33,9 +33,9 @@
 ---
 ## 📫 Contato
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="16" height="16"/> joaovitorprazeres4@gmail.com  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" width="16" height="16"/> WhatsApp: (81) 98292-6848  
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="16" height="16"/> João Vitor Prazeres da Silva
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="16" height="16"/>  joaovitorprazeres4@gmail.com  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" alt="WhatsApp" width="16" height="16"/>  WhatsApp: (81) 98292-6848  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="16" height="16"/>  João Vitor Prazeres da Silva
 ---
 
 ## 📊 GitHub Stats
