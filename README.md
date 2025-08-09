@@ -42,7 +42,7 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="16" height="16"/> **Email:** [joaovitorprazeres4@gmail.com](mailto:joaovitorprazeres4@gmail.com)  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="16" height="16"/> **WhatsApp:** [(81) 98292-6848](https://wa.me/5581982926848)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/> **LinkedIn:** [João Vitor Prazeres da Silva](https://www.linkedin.com/in/seu-perfil-aqui)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/> **LinkedIn:** [João Vitor Prazeres da Silva](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)
 
 ---
 
