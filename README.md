@@ -46,4 +46,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&cache_seconds=3600" />
 
 <!-- Top Languages -->
-<img height="180em"
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=3600" />
+
+</div>
+
+---
+
+### Obrigado por visitar meu perfil! 🚀
