@@ -6,34 +6,19 @@
 
 ## 🛠️ Tecnologias e Habilidades
 
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://img.icons8.com/ios-filled/16/000000/networking.png" alt="Protocolos" style="vertical-align:middle;" /> Protocolos
-</span>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22A79A?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-FF6600?style=for-the-badge&logo=zabbix&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba-CC2927?style=for-the-badge&logo=samba&logoColor=white)
+![VPS Hostinger](https://img.shields.io/badge/VPS_Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
 
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="vertical-align:middle;" width="16" height="16" /> Linux
-</span>
-
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows" style="vertical-align:middle;" width="16" height="16" /> Windows
-</span>
-
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="vertical-align:middle;" width="16" height="16" /> Python
-</span>
-
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="vertical-align:middle;" width="16" height="16" /> JavaScript
-</span>
-
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="vertical-align:middle;" width="16" height="16" /> AWS
-</span>
-
-<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="vertical-align:middle;" width="16" height="16" /> Docker
-</span>
----
 
 ## 💼 Projetos Acadêmicos
 
