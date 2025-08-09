@@ -18,6 +18,8 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-FF6600?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-CC2927?style=for-the-badge&logo=samba&logoColor=white)
 ![VPS Hostinger](https://img.shields.io/badge/VPS_Hostinger-FF6600?style=for-the-badge&logo=hostinger&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 💼 Projetos Acadêmicos
