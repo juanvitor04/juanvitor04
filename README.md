@@ -36,9 +36,8 @@
 ## 📫 Contato
 
 - 📧 joaovitorprazeres4@gmail.com  
-- 📱 (81) 98292-6848
+- 📱 [WhatsApp](https://wa.me/5581982926848)  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)
- [LinkedIn](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)  
 
 ---
 
