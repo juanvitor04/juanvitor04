@@ -34,9 +34,9 @@
 
 ## 📫 Contato
 
-- 📧 joaovitorprazeres4@gmail.com  
-- 📱 [WhatsApp](https://wa.me/5581982926848)  
-- LinkedIn: [João Vitor Prazeres da Silva](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/)
+- [![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white&style=flat)](mailto:joaovitorprazeres4@gmail.com) joaovitorprazeres4@gmail.com  
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/5581982926848) WhatsApp  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joao-vitor-prazeres-da-silva/) João Vitor Prazeres da Silva
 
 ---
 
