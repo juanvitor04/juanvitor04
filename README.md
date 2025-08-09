@@ -7,31 +7,31 @@
 ## 🛠️ Tecnologias e Habilidades
 
 - **Redes de Computadores:**  
-  ![Protocolos](https://img.icons8.com/ios-filled/20/000000/networking.png) Protocolos  
-  ![Grafana](https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png) Grafana  
-  ![Zabbix](https://upload.wikimedia.org/wikipedia/commons/4/46/Zabbix_logo.svg) Zabbix  
+  <img src="https://img.icons8.com/ios-filled/12/000000/networking.png" alt="Protocolos" /> Protocolos  
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/fav32.png" alt="Grafana" width="12" height="12" /> Grafana  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Zabbix_logo.svg" alt="Zabbix" width="12" height="12" /> Zabbix  
 
 - **Sistemas Operacionais:**  
-  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux  
-  ![Windows](https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg) Windows  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="12" height="12" /> Linux  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows" width="12" height="12" /> Windows  
 
 - **Desenvolvimento:**  
-  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python  
-  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5  
-  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3  
-  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL  
-  ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) SQL Server  
-  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="12" height="12" /> Python  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="12" height="12" /> HTML5  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="12" height="12" /> CSS3  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="12" height="12" /> MySQL  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="12" height="12" /> SQL Server  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="12" height="12" /> JavaScript  
 
 - **Cloud & DevOps:**  
-  ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS EC2  
-  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="12" height="12" /> AWS EC2  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="12" height="12" /> Docker  
 
 - **Outros:**  
-  ![InfluxDB](https://upload.wikimedia.org/wikipedia/commons/6/6b/InfluxDB_logo.svg) InfluxDB  
-  ![Samba](https://upload.wikimedia.org/wikipe)
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/InfluxDB_logo.svg" alt="InfluxDB" width="12" height="12" /> InfluxDB  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samba-logo.svg" alt="Samba" width="12" height="12" /> Samba  
 ---
+
 ## 💼 Projetos Acadêmicos
 
 - **📱 Detecção de Smartphones com YOLO**  
