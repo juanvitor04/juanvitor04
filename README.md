@@ -6,32 +6,34 @@
 
 ## 🛠️ Tecnologias e Habilidades
 
-**Redes de Computadores**  
-<img src="https://img.icons8.com/ios-filled/24/000000/networking.png" alt="Protocolos" />
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://img.icons8.com/ios-filled/16/000000/networking.png" alt="Protocolos" style="vertical-align:middle;" /> Protocolos
+</span>
 
-**Sistemas Operacionais**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="24" height="24" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows" width="24" height="24" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Zabbix_logo.svg" alt="Zabbix" width="24" height="24" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samba-logo.svg" alt="Samba" width="24" height="24" />
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="vertical-align:middle;" width="16" height="16" /> Linux
+</span>
 
-**Desenvolvimento**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="24" height="24" />
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows" style="vertical-align:middle;" width="16" height="16" /> Windows
+</span>
 
-**Cloud & DevOps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="24" height="24" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" />  
-VPS Hostinger (sem ícone disponível)
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="vertical-align:middle;" width="16" height="16" /> Python
+</span>
 
-**Outros**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/InfluxDB_logo.svg" alt="InfluxDB" width="24" height="24" />  
-<img src="https://raw.githubusercontent.com/grafana/g
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="vertical-align:middle;" width="16" height="16" /> JavaScript
+</span>
 
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="vertical-align:middle;" width="16" height="16" /> AWS
+</span>
+
+<span style="display:inline-block; padding:4px 8px; margin:4px; border:1px solid #ccc; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="vertical-align:middle;" width="16" height="16" /> Docker
+</span>
+---
 
 ## 💼 Projetos Acadêmicos
 
