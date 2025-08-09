@@ -1,13 +1,9 @@
-# 👋 Olá, eu sou o João Vitor Prazeres da Silva
+👋 Olá, eu sou o João Vitor Prazeres da Silva
 
-🎓 Estudante de Redes de Computadores na Unibra  
-💻 Apaixonado por Desenvolvimento de Software e Infraestrutura  
-🌐 Recife - PE | 21 anos
-
+🎓 Estudante de Redes de Computadores na Unibra, 21 anos, residente em Recife - PE.
+💻 Apaixonado por Desenvolvimento de Software e Infraestrutura, com foco em redes, sistemas operacionais e desenvolvimento em Python.
+Atualmente busco oportunidades de estágio para aplicar e expandir meus conhecimentos em ambientes reais de trabalho.
 ---
-
-## 🚀 Sobre Mim
-
 Sou um entusiasta da tecnologia com foco em redes, sistemas operacionais e desenvolvimento com Python. Busco oportunidades de estágio para aplicar e expandir meus conhecimentos em ambientes reais de trabalho.
 
 ---
