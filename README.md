@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 💼 Projetos Acadêmicos
+## 💼 Projetos
 
 - **📱 Detecção de Smartphones com YOLO**  
   Sistema em Python usando YOLO para identificar celulares em vídeos. Resultados salvos em servidor Ubuntu e compartilhados com Samba.  
