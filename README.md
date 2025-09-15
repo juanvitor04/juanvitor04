@@ -17,7 +17,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ## 💼 Projetos
 
 - **📱 Detecção de Smartphones com YOLO**  
@@ -32,7 +31,11 @@
   Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
   [🔗 Acesse o site](https://juanvitor04.github.io/projeto-android/) | [🔗 Repositório](https://github.com/juanvitor04/projeto-android)
 
----
+- **🔐 Tela de Login com HTML e CSS**  
+  Interface de login responsiva desenvolvida com HTML5 e CSS3, focada em design limpo e boa usabilidade.  
+  [🔗 Repositório](https://github.com/juanvitor04/tela-de-login)
+
+  --
 
 ## 📫 Contato
 
