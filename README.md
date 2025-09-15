@@ -35,8 +35,6 @@
   Interface de login responsiva desenvolvida com HTML5 e CSS3 e Flask, focada em design limpo e boa usabilidade.  
   [🔗 Repositório](https://github.com/juanvitor04/tela-de-login)
 
-  --
-
 ## 📫 Contato
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="16" height="16"/> **Email:** [joaovitorprazeres4@gmail.com](mailto:joaovitorprazeres4@gmail.com)  
