@@ -32,7 +32,7 @@
   [🔗 Acesse o site](https://juanvitor04.github.io/projeto-android/) | [🔗 Repositório](https://github.com/juanvitor04/projeto-android)
 
 - **🔐 Tela de Login com HTML e CSS**  
-  Interface de login responsiva desenvolvida com HTML5 e CSS3, focada em design limpo e boa usabilidade.  
+  Interface de login responsiva desenvolvida com HTML5 e CSS3 e Flask, focada em design limpo e boa usabilidade.  
   [🔗 Repositório](https://github.com/juanvitor04/tela-de-login)
 
   --
