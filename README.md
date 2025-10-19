@@ -54,7 +54,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=3600" />
 
 </div>
----
+
 ## 🐍 Minhas contribuições
 
 ![Snake animation](https://github.com/juanvitor04/juanvitor04/blob/output/github-contribution-grid-snake.svg)
