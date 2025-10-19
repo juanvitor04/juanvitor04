@@ -55,9 +55,4 @@
 
 </div>
 
-## 🐍 Minhas contribuições
-
-![Snake animation](https://github.com/juanvitor04/juanvitor04/blob/output/github-contribution-grid-snake.svg)
-
-
 ### Obrigado por visitar meu perfil! 🚀
