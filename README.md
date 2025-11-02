@@ -29,11 +29,20 @@
 
 - **🤖 Site "História do Android" com HTML e CSS**  
   Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
-  [🔗 Acesse o site](https://juanvitor04.github.io/projeto-android/) | [🔗 Repositório](https://github.com/juanvitor04/projeto-android)
+  [🔗 Acesse o site](https://juanvitor04.github.io/projeto-android/) | [🌐 Repositório](https://github.com/juanvitor04/projeto-android)
 
 - **🔐 Tela de Login com HTML e CSS e Python**  
   Interface de login responsiva desenvolvida com HTML5 e CSS3 e Flask, focada em design limpo e boa usabilidade.  
   [🔗 Repositório](https://github.com/juanvitor04/tela-de-login)
+
+- **📖 Frontend Senac**  
+  Interface de uma página inicial do site Senac desenvolvida no projeto *Transforme-se* pelo Serasa Experian.  
+  🔗 [Repositório](https://github.com/juanvitor04/frontend-senac) | 🌐 [GitHub Pages](https://juanvitor04.github.io/frontend-senac/)
+- **💛 Site Setembro Amarelo**  
+  Projeto de conscientização sobre prevenção ao suicídio, com informações e design acessível, desenvolvido no Senac como uma campanha de conscientização.  
+  🔗 [Repositório](https://github.com/juanvitor04/site-setembro-amarelo) | 🌐 [GitHub Pages](https://juanvitor04.github.io/site-setembro-amarelo/)
+
+
 
 ## 📫 Contato
 
