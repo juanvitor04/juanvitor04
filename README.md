@@ -41,6 +41,10 @@
 - **💛 Site Setembro Amarelo**  
   Projeto de conscientização sobre prevenção ao suicídio, com informações e design acessível, desenvolvido no Senac como uma campanha de conscientização.  
   🔗 [Repositório](https://github.com/juanvitor04/site-setembro-amarelo) | 🌐 [GitHub Pages](https://juanvitor04.github.io/site-setembro-amarelo/)
+  
+- **🌐 Aprendendo Django**  
+Projeto online para aprendizado de Django disponibilizado em ambiente web.  
+[🔗 Acesse o site](https://aprendendo-django-7p6x.onrender.com/)
 
 
 
