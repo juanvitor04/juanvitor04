@@ -44,7 +44,7 @@
   
 - **🌐 Aprendendo Django**  
 Projeto online para aprendizado de Django disponibilizado em ambiente web.  
-[🔗 Acesse o site](https://aprendendo-django-7p6x.onrender.com/)
+[🔗 Acesse o site](https://aprendendo-django-7p6x.onrender.com/) | [💻 Repositório](https://github.com/juanvitor04/django-notas)
 
 
 
