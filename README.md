@@ -64,7 +64,7 @@ Projeto online para aprendizado de Django disponibilizado em ambiente web, o pro
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight&langs_count=6" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight&langs_count=6&forks=true" />
 
 </div>
 
