@@ -46,7 +46,7 @@
   
 - **🌐 Django-notas**  
 Projeto online para aprendizado de Django disponibilizado em ambiente web, o produto final foi um sistema de anotações. 
-[🔗 Acesse o site](https://aprendendo-django-7p6x.onrender.com/) | [💻 Repositório](https://github.com/juanvitor04/django-notas)
+[💻 Repositório](https://github.com/juanvitor04/django-notas)
 
 
 
