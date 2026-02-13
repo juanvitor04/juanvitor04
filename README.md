@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou o João Vitor Prazeres da Silva
 
-🎓  **Estudante de Redes de Computadores** na Unibra | Recife - PE  
-💻  Apaixonado por **Desenvolvimento de Software e Infraestrutura**, com foco em redes, sistemas operacionais e programação em Python.  
-🚀  Em busca de **oportunidades de estágio** para aplicar e expandir meus conhecimentos em projetos reais.
+🎓 Formado em Redes de Computadores | Recife - PE  
+💻 Desenvolvedor Fullstack com foco em **JavaScript e TypeScript**, construindo aplicações web modernas com React, Node.js e APIs REST.  
+🧠 Experiência em integração de sistemas, autenticação, consumo de APIs e arquitetura baseada em serviços.  
+🚀 Buscando oportunidades para atuar no desenvolvimento de soluções escaláveis e performáticas.
 
 ## 🛠️ Tecnologias e Habilidades
 
@@ -21,33 +22,84 @@
 
 ## 💼 Projetos
 
-- **📱 Detecção de Smartphones com YOLO**  
-  Sistema em Python usando YOLO para identificar celulares em vídeos. Resultados salvos em servidor Ubuntu e compartilhados com Samba.  
-  [🔗 Repositório](https://github.com/juanvitor04/detector-celular-yolo)
+### 🛠️ ServiçosJá – Plataforma Fullstack de Serviços
 
-- **🌡️ Monitoramento Ambiental com ESP32**  
-  Coleta de temperatura e umidade via sensores conectados ao ESP32, envio para InfluxDB e visualização em tempo real no Grafana.  
-  [🔗 Repositório](https://github.com/juanvitor04/sistema-de-monitoramento-ambiental-iot)
+Plataforma web completa que conecta clientes a prestadores de serviços com geolocalização, avaliações e gestão de contratações.
 
-- **🤖 Site "História do Android" com HTML e CSS**  
-  Página desenvolvida com HTML5 e CSS3 como prática de front-end.  
-  [🔗 Acesse o site](https://juanvitor04.github.io/projeto-android/) | [🌐 Repositório](https://github.com/juanvitor04/projeto-android)
+#### 🔹 Back-end – API REST (Django + DRF)
+- Autenticação com JWT  
+- CRUD de usuários, serviços e avaliações  
+- Integração com APIs externas (ViaCEP e geolocalização)  
+- Upload de imagens  
+- Documentação com Swagger (OpenAPI)  
 
-- **🔐 Tela de Login com HTML e CSS e Python**  
-  Interface de login responsiva desenvolvida com HTML5 e CSS3 e Flask, focada em design limpo e boa usabilidade.  
-  [🔗 Repositório](https://github.com/juanvitor04/tela-de-login)
+🔗 Repositório:  
+https://github.com/juanvitor04/Back-End_ServicosJa_API  
 
-- **📖 Frontend Senac**  
-  Interface de uma página inicial do site Senac desenvolvida no projeto *Transforme-se* pelo Serasa Experian.  
-  🔗 [Repositório](https://github.com/juanvitor04/frontend-senac) | 🌐 [GitHub Pages](https://juanvitor04.github.io/frontend-senac/)
-- **💛 Site Setembro Amarelo**  
-  Projeto de conscientização sobre prevenção ao suicídio, com informações e design acessível, desenvolvido no Senac como uma campanha de conscientização.  
-  🔗 [Repositório](https://github.com/juanvitor04/site-setembro-amarelo) | 🌐 [GitHub Pages](https://juanvitor04.github.io/site-setembro-amarelo/)
-  
-- **🌐 Django-notas**  
-Projeto online para aprendizado de Django disponibilizado em ambiente web, o produto final foi um sistema de anotações. 
-[💻 Repositório](https://github.com/juanvitor04/django-notas)
+#### 🔹 Front-end – React + Vite
+- Interface moderna com Material UI  
+- Mapas interativos (Leaflet + Google Maps)  
+- Filtros por localização  
+- Sistema de rotas com React Router  
+- Dashboard com gráficos  
 
+🔗 Repositório:  
+https://github.com/juanvitor04/servicosja  
+
+---
+
+### 📱 Detecção de Smartphones com YOLO  
+Sistema em Python utilizando visão computacional para identificar celulares em vídeos.  
+Resultados armazenados em servidor Ubuntu com compartilhamento via Samba.  
+
+🔗 Repositório:  
+https://github.com/juanvitor04/detector-celular-yolo  
+
+---
+
+### 🌡️ Monitoramento Ambiental com ESP32  
+Sistema IoT para coleta de temperatura e umidade com envio de dados para InfluxDB e visualização em tempo real no Grafana.  
+
+🔗 Repositório:  
+https://github.com/juanvitor04/sistema-de-monitoramento-ambiental-iot  
+
+---
+
+### 🌐 Django-notas  
+Sistema web desenvolvido com Django com funcionalidades CRUD completas para gerenciamento de anotações.  
+
+🔗 Repositório:  
+https://github.com/juanvitor04/django-notas  
+
+---
+
+### 📖 Frontend Senac  
+Interface inspirada na página inicial do Senac, desenvolvida no projeto *Transforme-se*.  
+
+🔗 Repositório:  
+https://github.com/juanvitor04/frontend-senac  
+🌐 GitHub Pages:  
+https://juanvitor04.github.io/frontend-senac/
+
+---
+
+### 🤖 Site "História do Android"  
+Projeto front-end estático desenvolvido com HTML5 e CSS3.  
+
+🔗 Acesse:  
+https://juanvitor04.github.io/projeto-android/  
+🌐 Repositório:  
+https://github.com/juanvitor04/projeto-android  
+
+---
+
+### 💛 Site Setembro Amarelo  
+Projeto de conscientização com foco em acessibilidade e design informativo.  
+
+🔗 Repositório:  
+https://github.com/juanvitor04/site-setembro-amarelo  
+🌐 GitHub Pages:  
+https://juanvitor04.github.io/site-setembro-amarelo/
 
 
 ## 📫 Contato
