@@ -91,15 +91,6 @@ https://github.com/juanvitor04/projeto-android
 
 ---
 
-### 💛 Site Setembro Amarelo  
-Projeto de conscientização com foco em acessibilidade e design informativo.  
-
-🔗 Repositório:  
-https://github.com/juanvitor04/site-setembro-amarelo  
-🌐 GitHub Pages:  
-https://juanvitor04.github.io/site-setembro-amarelo/
-
-
 ## 📫 Contato
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="16" height="16"/> **Email:** [joaovitorprazeres4@gmail.com](mailto:joaovitorprazeres4@gmail.com)  
