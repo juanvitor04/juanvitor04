@@ -113,10 +113,13 @@ https://juanvitor04.github.io/site-setembro-amarelo/
 <div align="center">
 
 <img height="180em"
-     src="https://github-readme-stats-one-nu-48.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     src="https://github-readme-stats-tan-two-67.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-     src="https://github-readme-stats-one-nu-48.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=radical"/>
-</div>    
+     src="https://github-readme-stats-tan-two-67.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
 
 ### Obrigado por visitar meu perfil! 🚀
