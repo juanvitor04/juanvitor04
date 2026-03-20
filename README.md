@@ -32,13 +32,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="180em"
-     src="https://github-readme-stats-tan-two-67.vercel.app/api?username=juanvitor04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+     src="https://github-readme-stats-tan-two-67.vercel.app/api?username=JoaoVitorPrazeres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em"
-     src="https://github-readme-stats-tan-two-67.vercel.app/api/top-langs/?username=juanvitor04&layout=compact&theme=tokyonight"/>
-
+     src="https://github-readme-stats-tan-two-67.vercel.app/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
