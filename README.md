@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Vitor Prazeres da Silva
+# 👋 Olá! Eu sou João Vitor Prazeres da Silva
 
 🎓 Formado em Redes de Computadores | Recife - PE  
 💻 Desenvolvedor Fullstack com foco em **JavaScript e TypeScript**, construindo aplicações web modernas com React, Node.js e APIs REST.  
