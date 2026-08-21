@@ -34,7 +34,7 @@
   <img height="180em"
        src="https://github-readme-stats.shion.dev/api?username=JoaoVitorPrazeres&theme=dark"/>
   <img height="180em"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=dark"/>
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoVitorPrazeres&layout=compact&theme=dark&cache_seconds" =0/>
 </div>
 
 ### Obrigado por visitar meu perfil! 🚀
